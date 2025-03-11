@@ -1,0 +1,8 @@
+internTaskEnvironment/
+__pychache__/
+*.pyc
+*.pyo
+
+
+*.log
+*.sqlite3
